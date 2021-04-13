@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachin1208
+- 👋 Hi, I’m Sachin Aggarwal
 - 👀 I’m interested in technologies such as Angular, HTML, CSS, GraphQL
 - 🌱 I’m currently learning GraphQl
 - 💞️ I’m looking to collaborate on ...
